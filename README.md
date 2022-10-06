@@ -1,2 +1,3 @@
-# Digital-Library-management-system
-Project on Database Management System
+# librarymanagmentsysteminphp
+
+Import library_managment.sql on database
